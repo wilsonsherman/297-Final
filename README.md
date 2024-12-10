@@ -1,0 +1,1 @@
+This is the code used for my final project in Environ 297 A. In the code, I analyze the relationship between daily time spent on physical activity and annual temperature, drawing on data from the American Time Use Survey (https://timeuse.ipums.org/) and PRISM climate data (https://prism.oregonstate.edu/).
